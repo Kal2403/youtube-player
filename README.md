@@ -19,3 +19,10 @@ Youtube Player
     - i add show-more img
     - I add notification img
     - i add img of user
+
+6.- DIV SIDE-BAR
+    - SHORTICONS
+        - SEVEN ICONS INSIDE OF TAG 'a' with a img.
+
+    - SUBSCRIBED
+        - FIVE TAG 'a' INSIDE IMG OF SUBSCRIBED
